@@ -1,1 +1,1 @@
-# Rock-Paper-Scissors-Project
+It's the third project during the cours on the Odin Project Platform. I use JavaScript for the fist time here.
